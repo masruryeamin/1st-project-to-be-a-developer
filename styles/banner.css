@@ -40,10 +40,21 @@
     border: none;
     padding: 10px 20px;
     border-radius: 7px;
+    transition: background-color 0.3s ease;
 }
+.banner-main button:hover{
+    background-color: aqua;
+}
+
 .banner-main a{
     text-decoration: none;
     font-weight: 600;
     color: white;
 
 }
+.banner-main a:hover{
+    
+    color: rgb(2, 2, 2);
+
+}
+
