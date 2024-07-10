@@ -1,0 +1,145 @@
+
+.web-dev-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.web-main{
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.04);
+    /* border: 2px solid blue; */
+    padding-top: 80px;
+    margin-top: 100px;
+    margin-right: 40px;
+    margin-left: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.web-dev-head{
+    /* margin-top: 100px; */
+    padding: 0px 80px;
+    text-align: center;
+}
+.web-dev-head h2{
+    font-weight: 800;
+    margin-bottom: 24px;
+    margin-top: 24px;
+}
+.web-dev-head p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.web-card-1{
+    width: 85%;
+    /* height: 350px;
+    border: 2px solid red; */
+    display: flex;
+    align-items: center;
+    border-radius: 16px;
+    background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+    padding: 48px;
+    margin-bottom: 32px;
+    
+}
+.web-card-1 h2{
+    color: rgba(13, 19, 33, 0.7);
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-bottom: 16px;
+    
+}
+.web-card-1 p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-bottom: 32px;
+    
+}
+.web-card-1 button{
+    color: rgb(13, 19, 33);
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    background-color: transparent;
+    border: 1px solid black;
+    padding: 5px 10px;
+    
+}
+.web-card-1-lft{
+    width:65%;
+    height: 100%;
+    /* border: 2px solid greenyellow; */
+    text-align: left;
+}
+.web-card-1-rt{
+    width:35%;
+    height: 100%;
+    /* border: 2px solid rgb(255, 47, 238); */
+}
+
+/* middle card  */
+.web-card-2{
+    width: 85%;
+    /* height: 350px;
+    border: 2px solid red; */
+    display: flex;
+    align-items: center;
+    border-radius: 16px;
+    background: linear-gradient(270.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+    margin-bottom: 32px;
+    
+}
+.web-card-2 h2{
+    color: rgba(13, 19, 33, 0.7);
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-bottom: 16px;
+    
+}
+.web-card-2 p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-bottom: 32px;
+    
+}
+.web-card-2 button{
+    color: rgb(13, 19, 33);
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    background-color: transparent;
+    border: 1px solid black;
+    padding: 5px 10px;
+    
+}
+.web-card-2-lft{
+    width:65%;
+    height: 100%;
+    /* border: 2px solid greenyellow; */
+    text-align: left;
+}
+.web-card-2-rt{
+    width:35%;
+    height: 100%;
+    /* border: 2px solid rgb(255, 47, 238); */
+}
