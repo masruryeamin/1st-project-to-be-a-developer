@@ -1,0 +1,20 @@
+
+
+.nav-bar-container{
+    display: flex;
+    gap: 806px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.nav-btn button{
+    background-color: transparent;
+    border: 1px solid black;
+    padding: 10px 20px;
+    border-radius: 7px;
+
+}
+.nav-btn a{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
